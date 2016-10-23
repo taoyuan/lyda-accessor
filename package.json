@@ -1,0 +1,30 @@
+{
+  "name": "lyda-accessor",
+  "version": "0.1.0",
+  "description": "Lyda accessor base block",
+  "homepage": "",
+  "author": {
+    "name": "Yuan Tao",
+    "email": "towyuan@outlook.com",
+    "url": ""
+  },
+  "main": "./index.js",
+  "keywords": [
+    "lyda",
+    "accessor",
+    "bi",
+    "stats"
+  ],
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "loopback-datasource-juggler": "^2.53.0",
+    "strong-globalize": "^2.8.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "repository": "taoyuan/lyda-accessor",
+  "scripts": {},
+  "license": "MIT"
+}
