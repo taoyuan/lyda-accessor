@@ -16,8 +16,8 @@
     "stats"
   ],
   "dependencies": {
-    "bluebird": "^3.4.6",
-    "loopback-datasource-juggler": "^2.53.0",
+    "bluebird": "^3.4.7",
+    "loopback-datasource-juggler": "^3.1.1",
     "strong-globalize": "^2.8.0"
   },
   "devDependencies": {
