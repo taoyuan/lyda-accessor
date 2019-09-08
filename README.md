@@ -1,4 +1,7 @@
 # lyda-accessor [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/lyda-accessor.svg)](https://greenkeeper.io/)
+
 > Lyda accessor base block
 
 ## Installation
